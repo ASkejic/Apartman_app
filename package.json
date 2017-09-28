@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/skeja/Apartman_app/issues"
   },
-  "homepage": "https://github.com/skeja/Apartman_app#readme"
+  "homepage": "https://github.com/skeja/Apartman_app#readme",
+  "dependencies": {
+    "express": "^4.16.0"
+  }
 }
