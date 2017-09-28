@@ -1,2 +1,2 @@
 # Apartman_app
-App about apartment
+Template based with RESTful routing app about displaying and managing apartment
